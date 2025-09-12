@@ -1,5 +1,6 @@
 ## Hi there 👋 My main account got banned lol.
 <img src="https://github-readme-stats.vercel.app/api?username=EarlClydeeee&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="EarlClydeeee's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=EarlClydeeee&theme=dark&hide_border=true" alt="EarlClydeeee's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EarlClydeeee&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="EarlClydeeee's GitHub Stats" />
 <!--
 **EarlClydeeee/EarlClydeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
