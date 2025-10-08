@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Earl Clyde
 
 🎓 **Computer Engineering Student** @ Polytechnic University of the Philippines  
-💻 **Frontend & Full-Stack Developer** | UI/UX Integrator | AI Explorer  
+💻 **Frontend Developer** | UI/UX Integrator | AI Explorer  
 🌍 Based in Tanza, Cavite, Calabarzon, Philippines
 
 ---
