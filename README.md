@@ -6,17 +6,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm passionate about building intuitive web applications and exploring the intersection of design and technology. Currently focused on creating impactful solutions through clean code and thoughtful user experiences.
 
-- 🔭 Currently working on civic tech and enterprise management systems
-- 🌱 Exploring AI integration in web applications
-- 💡 Love turning complex problems into elegant solutions
+- Currently working on civic tech and enterprise management systems
+- Exploring AI integration in web applications
+- Love turning complex problems into elegant solutions
+- Is now a Co-Lead for Software Development Team at Microsoft Student Community
+- Currently associated with AWS Cloud Club as part of the Development Team
+- A member and a Software Engineer at the Institute of Computer Engineers of the Philippines Student Edition
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
