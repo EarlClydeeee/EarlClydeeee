@@ -16,6 +16,7 @@ I'm passionate about building intuitive web applications and exploring the inter
 - Is now a Co-Lead for Software Development Team at Microsoft Student Community
 - Currently associated with AWS Cloud Club as part of the Development Team
 - A member and a Software Engineer at the Institute of Computer Engineers of the Philippines Student Edition
+- Leading using its Full-Stack knowledge at Association of Concerned Computer Engineering Students for Service (ACCESS) 
 
 ---
 
