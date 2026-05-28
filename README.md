@@ -1,6 +1,6 @@
 <div align="center">
 
-# Earl Clyde
+#Hi! It's Earl Clyde
 
 **Computer Engineering Student · AI/ML Track · Full-stack Developer**
 
